@@ -1,7 +1,7 @@
 <!-- BANNER ANIMADO -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:FF0000&height=200&section=header&text=LUENDERSON&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DEVELOPER%20%7C%20GAMER%20%7C%20TECHNOLOGY&descAlignY=60&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:FF0000&height=200&section=header&text=DEV%20BN%20FPS&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DEVELOPER%20%7C%20GAMER%20%7C%20TECHNOLOGY&descAlignY=60&descSize=16" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2500&pause=700&color=FF0000&center=true&vCenter=true&width=600&lines=SEJA+BEM-VINDO+AO+MEU+PERFIL;DESENVOLVIMENTO+%26+TECNOLOGIA;CRIANDO+NOVAS+POSSIBILIDADES;BNX+SENSI+%F0%9F%94%A5" />
 
@@ -12,7 +12,7 @@
 ## 🔴 SOBRE MIM
 
 ```yaml
-Nome: Luenderson Bernardo
+Nome: DEV BN FPS
 Área: Tecnologia e Desenvolvimento
 Interesses:
   - Desenvolvimento Web
@@ -73,7 +73,7 @@ Tecnologia, personalização e experiência gamer.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:000000&height=120&section=footer" />
 
-### 🔴 "O impossível é apenas uma questão de evolução."
+### ❤️ Minha fé é Jesus.
 
 **Obrigado por visitar meu perfil!**
 
